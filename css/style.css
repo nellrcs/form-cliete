@@ -1,0 +1,9 @@
+ol li{
+    margin-bottom: 10px;
+    height: 35px;
+}
+
+ol li button{
+    float: right;
+    margin-left: 8px;
+}
